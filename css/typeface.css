@@ -1,0 +1,51 @@
+p{
+	font-family:coreHumanistSans, Helvetica, Arial, sans-serif;
+	font-size:14px;
+	line-height:16px;
+}
+
+h1{
+	font-family:coreHumanistSans;
+
+}
+
+h2{
+	font-family:coreHumanistSans, Helvetica, Arial, sans-serif;
+}
+
+h3{
+	font-family:coreHumanistSans, Helvetica, Arial, sans-serif;
+}
+
+h4{
+	font-family:coreHumanistSans, Helvetica, Arial, sans-serif; 
+}
+
+h5{
+	font-family:coreHumanistSans, Helvetica, Arial, sans-serif;
+}
+
+h6{
+	font-family:coreHumanistSans, Helvetica, Arial, sans-serif;
+}
+
+p{
+	font-family:coreHumanistSans, Helvetica, Arial, sans-serif;
+	font-size:10px;
+}
+
+a{
+	text-decoration:none;
+}
+
+
+@font-face {
+	font-family: coreHumanistSans;
+    src: url(../fonts/corehumanistsans-regular-webfont.eot);
+    src: url(../fonts/corehumanistsans-regular-webfont.eot) format('embedded-opentype'),
+         url(../fonts/corehumanistsans-regular-webfont.woff) format('woff'),
+         url(../fonts/corehumanistsans-regular-webfont.ttf) format('truetype'),
+         url(../fonts/corehumanistsans-regular-webfont.svg#coreHumanistSans) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
